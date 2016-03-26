@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CControlPanelDlg" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>LAAgACEEAAEARAACARAIAAABAAAAgEAAAhAAASAAAIA=</HashCode>
+      <FileName>ControlPanelDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPlayerbackControl">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAAAAAAAJIAAAAAAAAAAAAAAAAgAkAMAAAAAAAA=</HashCode>
+      <FileName>IPlayerbackControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IScreenControl">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAIAACAAAAAAIAAgIAAgA=</HashCode>
+      <FileName>IScreenControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMediaInfo" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAgAACAAAAAAAAAAAA=</HashCode>
+      <FileName>IMediaInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMediaControl" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kQCgCGgAAAAgBIIECECKACAACAQKFAqAoAMADgAICgQ=</HashCode>
+      <FileName>MediaControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNewProgressCtrl" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAACIAAAAAAGAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>NewProgressCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaylistDlg" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAQSkAgAEAAAAAABGAQMABAAAAEAAEQgQAAAAAAAA=</HashCode>
+      <FileName>PlaylistDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CToyPlayerDlg" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EESEABXBgAEAAAoDIJgAhAQNoTgBdiSAKAMADRIRAEA=</HashCode>
+      <FileName>ToyPlayerDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IVolumeControl">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAgAACAAAAAAAAAQAEACBAAAAAAAAAAA=</HashCode>
+      <FileName>IVolume.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
